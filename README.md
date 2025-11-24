@@ -33,4 +33,3 @@ A centered, styled profile card with:
 - Name and short bio
 - Social media links at the bottom
 - Nice colors and spacing
-
